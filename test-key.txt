@@ -1,0 +1,7 @@
+total 32
+drwxr-xr-x   6 apple  staff   192 Jul 28 08:43 .
+drwxr-xr-x+ 41 apple  staff  1312 Jul 29 12:40 ..
+-rw-------   1 apple  staff   419 Jul 28 08:41 id_ed25519
+-rw-r--r--   1 apple  staff   107 Jul 28 08:41 id_ed25519.pub
+-rw-------   1 apple  staff   828 Jul 28 08:43 known_hosts
+-rw-r--r--   1 apple  staff    92 Jul 28 08:43 known_hosts.old
